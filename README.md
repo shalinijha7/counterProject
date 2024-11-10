@@ -1,1 +1,1 @@
-It'a simple react project made for react revision.
+It's simple react project made for react revision. In this a counter is there to track the count of numbers from 0 to 20 and the lower limit can't reach below 0 whereas the upper limit can't cross 20.
